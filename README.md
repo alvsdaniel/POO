@@ -1,2 +1,2 @@
 # POO
-Estudos de Programação Orientada a Objetos: classes, herança, encapsulamento, polimorfismo e abstração na prática.
+Trabalho final de POO, que consiste em criar um Sistema de de Gerenciamento de Abrigos e Resgate de Animais. 
